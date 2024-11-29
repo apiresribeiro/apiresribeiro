@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hoverrr
-- 👀 I’m interested in game developement.
-- 🌱 I’m currently learning C++ for game dev!
+
 
 <!---
 hoverrr/hoverrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
