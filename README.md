@@ -40,7 +40,7 @@ An interactive 3D room rendered with PyOpenGL. It uses a scene graph, hierarchic
 🌐 **SD-01-projeto3** *(in progress)*<br>
 A distributed client–server system in C. The server handles up to 5 concurrent clients, one thread each, over TCP, using Protocol Buffers (protobuf-c) for serialization and a static library for the core data structures.
 
-⚙️ **[SO-001-p1](https://github.com/apiresribeiro/SO-001-p1)**<br>
+⚙️ **[SOestimate](https://github.com/apiresribeiro/soestimate)**<br>
 A multi-process sensor-estimation system in C. Sensor, controller and server processes are created with `fork()` and talk to each other through POSIX shared memory (`shm_open`/`mmap`) using circular and random-access buffers.
 
 📸 **[leiphotos](https://github.com/apiresribeiro/leiphotos)**<br>
