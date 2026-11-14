@@ -18,11 +18,19 @@ I'm especially interested in **game development**: 3D graphics and the engineeri
 
 ### 🛠️ Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,py,haskell,linux,git,latex" alt="C, Java, Python, Haskell, Linux, Git, LaTeX">
-</p>
+**Languages**<br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+<img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge" alt="SQL">
 
-Also: SQL · OpenGL · Make
+**Tools**<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
+<img src="https://img.shields.io/badge/GNU%20Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU Make">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
 
 ### 🚀 Projects
 
@@ -31,6 +39,9 @@ An interactive 3D room rendered with PyOpenGL. It uses a scene graph, hierarchic
 
 🌐 **SD-01-projeto3** *(in progress)*<br>
 A distributed client–server system in C. The server handles up to 5 concurrent clients, one thread each, over TCP, using Protocol Buffers (protobuf-c) for serialization and a static library for the core data structures.
+
+⚙️ **[SO-001-p1](https://github.com/apiresribeiro/SO-001-p1)**<br>
+A multi-process sensor-estimation system in C. Sensor, controller and server processes are created with `fork()` and talk to each other through POSIX shared memory (`shm_open`/`mmap`) using circular and random-access buffers.
 
 📸 **[leiphotos](https://github.com/apiresribeiro/leiphotos)**<br>
 A photo library manager in Java, with albums, trash, and text search. I implemented the core application logic following object-oriented design principles and patterns.
